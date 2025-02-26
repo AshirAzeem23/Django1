@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-=-o(m=&ah06o6$^k2$45*xjqmruiyrk=7cp07#h2@@-(c%&i=r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["gravitoncoder.com", "www.gravitoncoder.com"]
 
 
 # Application definition
